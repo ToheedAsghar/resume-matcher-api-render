@@ -1,3 +1,9 @@
 _pycache_/
 *.pyc
 .env
+.venv/
+node_modules/
+*.log
+dist/
+build/
+.DS_Store
